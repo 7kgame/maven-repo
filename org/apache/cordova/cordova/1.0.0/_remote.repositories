@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Apr 08 16:36:08 CST 2018
+cordova-1.0.0.jar>=
+cordova-1.0.0.pom>=
