@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 12 17:23:12 CST 2018
+auth-1.0.pom>=
+auth-1.0.jar>=
